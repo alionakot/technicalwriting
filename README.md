@@ -15,13 +15,15 @@ Feel free to explore examples of my work in both fields, available in both Engli
 
 **In English**:
 
-[Managing Web-Browsing History in Chrome on macOS](https://github.com/alionakot/technicalwriting/blob/main/cookie_instructions.md)
+User manual: [Managing web-browsing history in Chrome on macOS](https://github.com/alionakot/technicalwriting/blob/main/cookie_instructions.md)
 
-[Filtering HTTP Traffic with Wireshark on macOS](https://github.com/alionakot/technicalwriting/blob/main/Using%20Wireshark%20on%20MacOS.md)
+User manual: [Filtering HTTP traffic with Wireshark on macOS](https://github.com/alionakot/technicalwriting/blob/main/Using%20Wireshark%20on%20MacOS.md)
+
+Technical specialization and a technical project (fragments) [for a taxi ordering app with a cryptocurrency payment](https://github.com/alionakot/technicalwriting/blob/main/5_requirements.md).
 
 **In Russian**:
 
-[Проект технического задания для приложения-агрегатора такси](https://github.com/alionakot/technicalwriting/blob/main/5%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%20%D1%82%D0%B0%D0%BA%D1%81%D0%B8.md)
+Техническое задание и технический проект (фрагменты) [для приложения-агрегатора такси с оплатой криптовалютой](https://github.com/alionakot/technicalwriting/blob/main/5%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%20%D1%82%D0%B0%D0%BA%D1%81%D0%B8.md)
 
 ## 
 
