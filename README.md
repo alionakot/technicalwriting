@@ -19,7 +19,7 @@ User manual: [Managing web-browsing history in Chrome on macOS](https://github.c
 
 User manual: [Filtering HTTP traffic with Wireshark on macOS](https://github.com/alionakot/technicalwriting/blob/main/Using%20Wireshark%20on%20MacOS.md)
 
-Technical specialization and a technical project (fragments) [for a taxi ordering app with a cryptocurrency payment](https://github.com/alionakot/technicalwriting/blob/main/5_requirements.md).
+Technical specialization and a technical project (fragments) [for a taxi ordering app with a cryptocurrency payment](https://github.com/alionakot/technicalwriting/blob/main/5_requirements.md)
 
 **In Russian**:
 
