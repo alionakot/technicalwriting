@@ -2,7 +2,7 @@
 
 Hey there! I'm Alona, a Belgrade-based text enthusiast and a junior technical writer.
 
-![Alona's photo](https://github.com/alionakot/technicalwriting/blob/main/Images/photo_2023-03-03_18-44-15.jpg)
+<img src="https://github.com/alionakot/technicalwriting/blob/main/Images/photo_2023-03-03_18-44-15.jpg" alt="Alona's photo" width="400"/>
 
 In the realm of **non-technical writing**, I've dabbled in journalism, copywriting, and more, all with Russian texts since I was 14. This experience has also helped me become empathetic and clear in my responses during my time as a customer support agent.
 
