@@ -6,7 +6,7 @@ Hey there! I'm Alona, a Belgrade-based text enthusiast and a junior technical wr
 
 In the realm of **non-technical writing**, I've dabbled in journalism, copywriting, and more, all with Russian texts since I was 14. This experience has also helped me become empathetic and clear in my responses during my time as a customer support agent.
 
-On the **technical side**, I completed [a course in technical writing](https://voiti.tilda.ws/intensiv#rec402053586). I'm just starting to gain experience in this field, but I've already produced some pieces of work I'm proud of.
+On the **technical side**, I completed [a course in technical writing](https://voiti.tilda.ws/intensiv). I'm just starting to gain experience in this field, but I've already produced some pieces of work I'm proud of.
 
 Feel free to explore examples of my work in both fields, available in both English and Russian below.
 
