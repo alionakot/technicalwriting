@@ -25,6 +25,8 @@ Technical specialization and a technical project (fragments) [for a taxi orderin
 
 Техническое задание и технический проект (фрагменты) [для приложения-агрегатора такси с оплатой криптовалютой](https://github.com/alionakot/technicalwriting/blob/main/5%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%20%D1%82%D0%B0%D0%BA%D1%81%D0%B8.md)
 
+База знаний саппорта: внутренний документ для агентов отдела клиентской поддержки
+
 ## 
 
 ### Non-technical writing stuff
