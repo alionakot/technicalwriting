@@ -27,6 +27,8 @@ Technical specialization and a technical project (fragments) [for a taxi orderin
 
 База знаний саппорта: внутренний документ для агентов отдела клиентской поддержки
 
+Перевод с английского и адаптация инструкций по эксплуатации для метеостанций (под NDA) 
+
 ## 
 
 ### Non-technical writing stuff
